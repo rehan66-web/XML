@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <!-- metro star gate-->
+    <msgroduct xmlns:msg="www.msg.com">
+      <msgname>Super</msgname>  
+      <msgcompany>LU</msgcompany>
+      <msgprise>40</msgprise>
+    </msgroduct>
+    <!-- Shahra-e-faisal-->
+    <sfcproduct xmlns:sfc="www.msg.com">
+        <sfcname>Coldrink</sfcname>  
+        <sfccompany>Dew</sfccompany>
+        <sfcprise>230</sfcprise>
+      </sfcproduct>
+    <!-- Clifton-->  
+      <cfproduct xmlns:cf="www.msg.com">
+        <cfname>Chips</cfname>  
+        <cfcompany>Lays</cfcompany>
+        <cfprise>60</cfprise>
+      </cfproduct>
+</Products>
